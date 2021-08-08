@@ -1,0 +1,10 @@
+{
+    "Example": [
+        {
+            "name": "Get Document",
+            "path": "/example",
+            "method": "GET",
+            "action": "getDocument"
+        }
+    ]
+}

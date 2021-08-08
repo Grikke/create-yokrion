@@ -1,0 +1,27 @@
+{
+  "name": "create-yokrion",
+  "version": "1.0.3",
+  "description": "Script to create yokrion project",
+  "main": "create.js",
+  "bin": {
+    "create-yokrion": "./create.js"
+  },
+  "scripts": {
+    "create-yokrion": "node create.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grikke/create-yokrion.git"
+  },
+  "keywords": [
+    "framework",
+    "generator"
+  ],
+  "author": "grikke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grikke/create-yokrion/issues"
+  },
+  "homepage": "https://github.com/Grikke/create-yokrion#readme"
+}
